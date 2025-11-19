@@ -1,13 +1,13 @@
-— Grupo GlobeTechers —
+# Grupo GlobeTechers
 Gabriel Augusto Maciel Toledo - RM: 551654
 Leonardo Viotti Bonini - RM: 551716
 Vinicius Santos Yamashita de Farias - RM: 550908
 
-— Links —
+## Links
 Video explicativo: https://www.youtube.com/watch?v=-RcAWtaCfFw
 Projeto Wokwi: [https://wokwi.com/projects/447925872839534593](https://wokwi.com/projects/447925872839534593)
 
-— Projeto —
+## Projeto
 O nosso projeto de IOT busca melhorar o trabalho do dia a dia de uma pessoa que trabalha de casa, colocando um sensor que desenvolvemos com ESP32 dentro da casa d usuario que ira notificar se tem algo de errado em sua estação de trabalho ou nele durante o trabalho.  
 A aplicação usa um potenciometro para checar os batimentos cardiacos do usuario que a aplicação avisaria para dar uma pausa caso estejam altos.   
 Também com um potênciometro ele simula uma camêra que veria a postura do usuario e então avisaria se ele está com uma postura errada.  
